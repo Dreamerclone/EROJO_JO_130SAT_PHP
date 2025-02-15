@@ -15,7 +15,7 @@ class Job {
             ],
             [
                 'id' => 2,
-                'title' => 'Programmer',
+                'title' => 'Developer',
                 'salary' => '$10,000'
             ],
             [
